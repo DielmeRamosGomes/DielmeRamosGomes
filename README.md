@@ -8,10 +8,10 @@ Meu nome é Dielme Ramos Gomes sou Bacharel em Ciência da Computação pela Uni
 informação, para melhorar as minhas habilidades profissionais.
 
 
-🔭 Estou procurando uma primeira oportunidade de emprego
-🌱 Gosto de programar em Java, Python, JavaScript, Typescript  
-👯 Estudando  desenvolvimento de jogos  
-🤔 Posso te ajudar com java
-⚡ Gosto de jogar um "lolzin" pra relaxar
-⚡ Contato: dielmeuba@hotmail.com
-⚡ LinkedIn: https://www.linkedin.com/in/dielme-ramos-gomes/
+- 🔭 Estou procurando uma primeira oportunidade de emprego
+- 🌱 Gosto de programar em Java, Python, JavaScript, Typescript  
+- 👯 Estudando  desenvolvimento de jogos  
+- 🤔 Posso te ajudar com java
+- ⚡ Gosto de jogar um "lolzin" pra relaxar
+- ⚡ Contato: dielmeuba@hotmail.com
+- ⚡ LinkedIn: https://www.linkedin.com/in/dielme-ramos-gomes/
