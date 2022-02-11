@@ -9,7 +9,7 @@ informação, para melhorar as minhas habilidades profissionais.
 
 
 - 🔭 Estou procurando uma primeira oportunidade de emprego
-- 🌱 Gosto de programar em Java, Python, JavaScript, Typescript  
+- 🌱 Gosto de programar em Java, Python, JavaScript, Typescript e C#  
 - 👯 Estudando  desenvolvimento de jogos  
 - 🤔 Posso te ajudar com java
 - ⚡ Gosto de jogar um "lolzin" pra relaxar
